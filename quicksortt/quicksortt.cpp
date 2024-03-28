@@ -40,3 +40,8 @@ void swap(int x, int y)
 	arr[x] = arr[y];
 	mov_count++;
 }
+
+void q_short(int low, int high)
+{
+	
+}
